@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&family=Karla:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 
 * {
   margin: 0;
@@ -86,6 +86,7 @@ a {
 .info {
   display: flex;
   flex-direction: column;
+  margin-bottom: 150px;
 }
 
 .sub-title {
@@ -129,4 +130,21 @@ a {
   text-align: center;
   width: 200px;
   line-height: 1.25;
+}
+  
+.quote {
+  background: #d7eef1;
+  padding: 100px 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 200;
+  font-style:italic;
+  font-size: 36px;
+}
+
+.quote p {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px;
 }
