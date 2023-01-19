@@ -19,4 +19,4 @@ This is a project from **The Odin Project** which consists in making a _landing 
 
 ## The result: 
 
-![Screencapture] (screencapture.png)
+![Screencapture](assets/screencapture.png)
